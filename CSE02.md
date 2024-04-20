@@ -14,4 +14,4 @@ Week 1:
 |        |          |          |        |      |
 | 3      |214576    | 72843035 | Garcia J. Angel R. | https://github.com/AngelgarciaJ/Software-Eng._I-Course-Works |
 |        |          |          |        |      |
-|        |          |          |        |      |
+|        | 213727   | 71864209 | Churquipa Q. Uriel R. |https://github.com/18uriel/Sowftware-Engineering
